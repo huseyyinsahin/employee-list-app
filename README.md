@@ -12,5 +12,5 @@
 
 ## Canlı 
 
-[Canlı Proje Linki]() 
+[Canlı Proje Linki](https://employee-list-app-xi.vercel.app/) 
 
